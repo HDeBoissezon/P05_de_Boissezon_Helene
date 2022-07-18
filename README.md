@@ -6,9 +6,9 @@ Olist, société Brésilienne qui propose un solution de vente sur les marketpla
 Objectifs du projet :
 - Fournir une segmentation des clients et sa description précise
 - Proposer une fréquence de mise à jour de la segmentation 
-
-
-
+ 
+ 
+________________________________________ 
 Compétences développées pour ce projet :
 - Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
 - Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
